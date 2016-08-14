@@ -1,0 +1,31 @@
+{
+  "name": "rethink-db",
+  "version": "1.0.0",
+  "description": "This POC shows rethink db featureson a basic level",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "rethinkdb": "^2.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ManojC/rethink-db.git"
+  },
+  "keywords": [
+    "rethink-db",
+    "node",
+    "express",
+    "chat-app"
+  ],
+  "author": "Manoj Chalode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ManojC/rethink-db/issues"
+  },
+  "homepage": "https://github.com/ManojC/rethink-db#readme"
+}
